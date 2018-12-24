@@ -15,5 +15,7 @@ export default {
     },
     { path: '/question/:id', name: 'Question', component: Question },
     { path: '/character/:id', name: 'Character', component: Character },
+    { path: '/ssbu-character-selector/question/:id', name: 'QuestionProd', component: Question },
+    { path: '/ssbu-character-selector/character/:id', name: 'CharacterProd', component: Character },
   ],
 };

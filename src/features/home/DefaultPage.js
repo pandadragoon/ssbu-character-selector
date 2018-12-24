@@ -20,7 +20,7 @@ export class DefaultPage extends Component {
       <AppContainer>
         <div className="home-default-page container pt-4">
           <Jumbotron className="text-center">
-            <h2>Welcome to the character selector quiz <br /> from Super Smash Bros. Ultimate</h2>
+            <h2>Welcome to the character selector quiz <br /> for Super Smash Bros. Ultimate</h2>
             <img src={logo} alt="smash ultimate logo" className="mt-5 mb-5 home-default-page__logo w-50" />
             <Button color="danger" onClick={()=> history.push('question/1')} className="mt-5 w-75 p-3">Let's get started</Button>
           </Jumbotron>
