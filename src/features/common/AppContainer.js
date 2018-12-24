@@ -32,7 +32,7 @@ export class AppContainer extends Component {
     }
 
     return (
-      <div className="common-app-container">
+      <div className="common-app-container pb-5">
         <Navbar className="mb-4 container">
           <NavbarBrand href="/">
             <img src={logo} alt="smash ball" style={{ width: '80px', height: 'auto'}} className="mr-3" />

@@ -8,6 +8,14 @@ import { Card, CardImg, CardBody, CardTitle, CardText, Button} from 'reactstrap'
 
 import AppContainer from '../common/AppContainer';
 
+const pathToCharacters = require.context('../../images', false);
+
+function importAll(r) {
+  return r.keys().map(r);
+}
+
+const images = importAll(require.context('../../images', false, /\.(png|jpe?g|svg)$/));
+
 export class Character extends Component {
   static propTypes = {
     home: PropTypes.object.isRequired,
@@ -19,7 +27,7 @@ export class Character extends Component {
     const { characters, answers } = common;
     const { id } = match.params;
     const character = characters[id];
-
+    console.log('images', images);
     return (
       <AppContainer>
         {
@@ -27,10 +35,11 @@ export class Character extends Component {
           <div className="home-character container">
             <h1 className="text-uppercase">Congratulations</h1>
             <h2 className="text-bold">Your character is:</h2>
-            <Card className="w-50">
-              {/* TODO: <CardImg /> */}
+            <Card className="w-50 pt-3">
+              <CardImg top src={require('../../images/' + character.id + '.png')} style={{ width: 'auto', maxHeight: '350px', marginRight: 'auto', marginLeft: 'auto' }} />
+              {/* <CardImg top width="100%" src={pathToCharacters[`${character.id}.png`]} alt={character.name} /> */}
               <CardBody>
-                <CardTitle>{character.name}</CardTitle>
+                <CardTitle className="text-center mt-4">{character.name}</CardTitle>
               </CardBody>
             </Card>
             {
