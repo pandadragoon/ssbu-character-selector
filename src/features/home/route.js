@@ -8,7 +8,7 @@ export default {
   path: '/',
   name: 'Home',
   childRoutes: [
-    { path: 'default-page',
+    { path: 'ssbu-character-selector',
       name: 'Default page',
       component: DefaultPage,
       isIndex: true,
