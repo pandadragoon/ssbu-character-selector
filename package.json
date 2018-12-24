@@ -113,5 +113,6 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "description": "smash-character-select created by Rekit."
+  "description": "smash-character-select created by Rekit.",
+  "homepage" : "https://pandadragoon.github.io/ssbu-character-selector/"
 }
