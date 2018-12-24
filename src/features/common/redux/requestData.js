@@ -23,7 +23,8 @@ export function requestData(args = {}) {
       // doRequest is a placeholder Promise. You should replace it with your own logic.
       // See the real-word example at:  https://github.com/supnate/rekit/blob/master/src/features/home/redux/fetchRedditReactjsList.js
       // args.error here is only for test coverage purpose.
-      const doRequest = axios.get('/data.json');
+      const root = process.env.NODE_ENV === 'production' ? '/ssbu-character-selector' : '';
+      const doRequest = axios.get(root + '/data.json');
       doRequest.then(
         (res) => {
           dispatch({
