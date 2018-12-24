@@ -4,11 +4,9 @@ import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 import history from '../../common/history';
 import * as actions from './redux/actions';
-import { Card, CardImg, CardBody, CardTitle, CardText, Button} from 'reactstrap';
+import { Card, CardImg, CardBody, CardTitle, Button} from 'reactstrap';
 
 import AppContainer from '../common/AppContainer';
-
-const pathToCharacters = require.context('../../images', false);
 
 function importAll(r) {
   return r.keys().map(r);
