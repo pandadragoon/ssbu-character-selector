@@ -58,7 +58,7 @@ export class Character extends Component {
               null
             }
 
-            <Button color="primary" onClick={()=> history.push(`/question/1`)} className="w-50 p-3 mt-3 d-block">
+            <Button color="success" onClick={()=> history.push(`/question/1`)} className="w-50 p-3 mt-3 d-block">
               Go Back To The Beginning
             </Button>
 

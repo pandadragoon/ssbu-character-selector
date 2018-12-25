@@ -52,6 +52,14 @@ export class Question extends Component {
                 })
               }
             </ul>
+            {
+              question.id === 1 ?
+              null
+              :
+              <Button color="success" onClick={()=> history.push(`/question/1`)} className="w-50 p-3 mt-3 d-block">
+                Go Back To The Beginning
+              </Button>
+            }
             <Button 
               color="danger" 
               onClick={()=> history.goBack()}
