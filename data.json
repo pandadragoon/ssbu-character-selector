@@ -1,0 +1,1317 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "text": "How far away do you want to be from your opponent?",
+            "answers": [1, 2, 3, 4, 5]
+        },
+        {
+            "id": 2,
+            "text": "How do you want to get that close?",
+            "answers": [6,7]
+        },
+        {
+            "id": 3,
+            "text": "Do you want to kill easily?",
+            "answers": [8, 9]
+        },
+        {
+            "id": 4,
+            "text": "Do you want to be fast?",
+            "answers": [10, 11]
+        },
+        {
+            "id": 5,
+            "text": "What if they get close to you?",
+            "answers": [12, 13]
+        },
+        {
+            "id": 6,
+            "text": "How indecisive are you?",
+            "answers": [14, 15]
+        },
+        {
+            "id": 7,
+            "text": "Do you like moving?",
+            "answers": [17, 18]
+        },
+        {
+            "id": 8,
+            "text": "Do you want to kill easily and quickly?",
+            "answers": [19, 20]
+        },
+        {
+            "id": 9,
+            "text": "Are you an air fighter?",
+            "answers": [21, 22]
+        },
+        {
+            "id": 10,
+            "text": "If you get a cool combo will you post it on twitter?",
+            "answers": [23, 24]
+        },
+        {
+            "id": 11,
+            "text": "Do you want to be hit by cool combos?",
+            "answers": [25, 26]
+        },
+        {
+            "id": 12,
+            "text": "Did you ever grow out of your Naruto run phase?",
+            "answers": [27, 28]
+        },
+        {
+            "id": 13,
+            "text": "Thoughts on slow motion?",
+            "answers": [29, 30]
+        },
+        {
+            "id": 14,
+            "text": "Do you like to do damage?",
+            "answers": [31, 32, 33]
+        },
+        {
+            "id": 15,
+            "text": "How man levels of irony are you on?",
+            "answers": [34, 35]
+        },
+        {
+            "id": 16,
+            "text": "Frame 1 jab?",
+            "answers": [36, 37]
+        },
+        {
+            "id": 17,
+            "text": "Do you want a gimmick to boost damage?",
+            "answers": [38, 39]
+        },
+        {
+            "id": 18,
+            "text": "How hard to you want to combo people?",
+            "answers": [40, 41, 42]
+        },
+        {
+            "id": 19,
+            "text": "How often do you taunt?",
+            "answers": [43, 44]
+        },
+        {
+            "id": 20,
+            "text": "How much free time do you have?",
+            "answers": [45, 46]
+        },
+        {
+            "id": 21,
+            "text": "Do you secretly wish you had Falcon Punch?",
+            "answers": [47, 48]
+        },
+        {
+            "id": 22,
+            "text": "Do you watch anime?",
+            "answers": [49, 50, 51]
+        },
+        {
+            "id": 23,
+            "text": "How long do you want to survive?",
+            "answers": [52, 53, 54]
+        },
+        {
+            "id": 24,
+            "text": "Do you want a gun?",
+            "answers": [55, 56, 57]
+        },
+        {
+            "id": 25,
+            "text": "Do you quote memes in public?",
+            "answers": [58, 59]
+        },
+        {
+            "id": 26,
+            "text": "Thoughts on killing?",
+            "answers": [60, 61, 62]
+        },
+        {
+            "id": 27,
+            "text": "Do you mind getting edgeguarded?",
+            "answers": [63, 64]
+        },
+        {
+            "id": 28,
+            "text": "Do you mind dying at 50%?",
+            "answers": [65, 66]
+        },
+        {
+            "id": 29,
+            "text": "What about being comboed or camped out?",
+            "answers": [67, 68]
+        },
+        {
+            "id": 30,
+            "text": "Do you want to think?",
+            "answers": [69, 70]
+        },
+        {
+            "id": 31,
+            "text": "Thoughts on camping?",
+            "answers": [71, 72]
+        },
+        {
+            "id": 32,
+            "text": "Why not?",
+            "answers": [73, 74]
+        },
+        {
+            "id": 33,
+            "text": "Do you like weird gimmicks?",
+            "answers": [76, 77]
+        },
+        {
+            "id": 34,
+            "text": "Do you like to solve math problems?",
+            "answers": [78, 79]
+        },
+        {
+            "id": 35,
+            "text": "Do you like using items?",
+            "answers": [80, 81]
+        },
+        {
+            "id": 36,
+            "text": "Sometimes in life we have to make compromises",
+            "answers": [82]
+        },
+        {
+            "id": 37,
+            "text": "Do you mind getting comboed?",
+            "answers": [83, 84, 85]
+        },
+        {
+            "id": 38,
+            "text": "Do you want your opponent to die?",
+            "answers": [86, 87, 88]
+        },
+        {
+            "id": 39,
+            "text": "But you do want some close range moves right?",
+            "answers": [89, 90, 91]
+        },
+        {
+            "id": 40,
+            "text": "How do you want to get kills?",
+            "answers": [92, 93]
+        },
+        {
+            "id": 41,
+            "text": "How important is being cute?",
+            "answers": [94, 95, 96]
+        },
+        {
+            "id": 42,
+            "text": "Do you want to lab out ridiculous kill setups?",
+            "answers": [97, 98]
+        },
+        {
+            "id": 43,
+            "text": "Do you want to grab people?",
+            "answers": [99, 100]
+        },
+        {
+            "id": 44,
+            "text": "Do you like practicing ridiculously difficult combos?",
+            "answers": [101, 102]
+        },
+        {
+            "id": 45,
+            "text": "Do you like weird unpredictable glitches?",
+            "answers": [103, 104]
+        },
+        {
+            "id": 46,
+            "text": "Do you like weird unpredictable glitches?",
+            "answers": [105, 106, 107]
+        },
+        {
+            "id": 47,
+            "text": "How much do you want your opponent to hate you?",
+            "answers": [109, 110]
+        },
+        {
+            "id": 48,
+            "text": "What do you think is the best way to piss people off?",
+            "answers": [111, 112, 113]
+        },
+        {
+            "id": 49,
+            "text": "Are you fine with friends being furries?",
+            "answers": [114, 115]
+        },
+        {
+            "id": 50,
+            "text": "Thoughts on grab combos?",
+            "answers": [116, 117, 118]
+        }
+    ],
+    "answers": [
+        {
+            "id": 1,
+            "text": "Right in their face",
+            "character": null,
+            "question": 2
+        },{
+
+            "id": 2,
+            "text": "Anywhere I'm not being hit",
+            "character": null,
+            "question": 3
+        },
+        {
+            "id": 3,
+            "text": "Far enough so I can hit them first",
+            "character": null,
+            "question": 4
+        },
+        {
+            "id": 4,
+            "text": "Far enough so they can't reach me",
+            "character": null,
+            "question": 5
+        },
+        {
+            "id": 5,
+            "text": "Whatever I feel like in the moment",
+            "character": null,
+            "question": 6
+        },
+        {
+            "id": 6,
+            "text": "Be fast",
+            "character": null,
+            "question": 9
+        },
+        {
+            "id": 7,
+            "text": "Pray",
+            "character": null,
+            "question": 18
+        },
+        {
+            "id": 8,
+            "text": "Give me blood",
+            "character": null,
+            "question": 8
+        },
+        {
+            "id": 9,
+            "text": "Just keep me safe",
+            "character": null,
+            "question": 7
+        },
+        {
+            "id": 10,
+            "text": "I'm good",
+            "character": null,
+            "question": 22
+        },
+        {
+            "id": 11,
+            "text": "Who doesn't",
+            "character": null,
+            "question": 27
+        },
+        {
+            "id": 12,
+            "text": "Push them back",
+            "character": null,
+            "question": 33
+        },
+        {
+            "id": 13,
+            "text": "Hope they won't",
+            "character": null,
+            "question": 39
+        },
+        {
+            "id": 14,
+            "text": "Fairly",
+            "character": null,
+            "question": 44
+        },
+        {
+            "id": 15,
+            "text": "It takes me an hour to decide which cereal I want",
+            "character": 1,
+            "question": null
+        },
+        {
+            "id": 16,
+            "text": "That wan't a joke",
+            "character": 2,
+            "question": null
+        },
+        {
+            "id": 17,
+            "text": "Always",
+            "character": 3,
+            "question": null
+        },
+        {
+            "id": 18,
+            "text": "Never",
+            "character": 4,
+            "question": null
+        },
+        {
+            "id": 19,
+            "text": "Even if it kills me",
+            "character": 5,
+            "question": null
+        },
+        {
+            "id": 20,
+            "text": "I'll wait",
+            "character": 6,
+            "question": null
+        },
+        {
+            "id": 21,
+            "text": "I ain't no air fighter",
+            "character": 7,
+            "question": null
+        },
+        {
+            "id": 22,
+            "text": "Yes",
+            "character": null,
+            "question": 10
+        },
+        {
+            "id": 23,
+            "text": "In a heartbeat",
+            "character": null,
+            "question": 11
+        },
+        {
+            "id": 24,
+            "text": "It's fine",
+            "character": null,
+            "question": 14
+        },
+        {
+            "id": 25,
+            "text": "Not a lot",
+            "character": null,
+            "question": 12
+        },
+        {
+            "id": 26,
+            "text": "Equivalent Exchange baby",
+            "character": null,
+            "question": 13
+        },
+        {
+            "id": 27,
+            "text": "No",
+            "character": 8,
+            "question": null
+        },
+        {
+            "id": 28,
+            "text": "Kinda",
+            "character": 9,
+            "question": null
+        },
+        {
+            "id": 29,
+            "text": "Double yes",
+            "character": 10,
+            "question": null
+        },
+        {
+            "id": 30,
+            "text": "Yes",
+            "character": 11,
+            "question": null
+        },
+        {
+            "id": 31,
+            "text": "If they're getting hit that means I'm winning right?",
+            "character": null,
+            "question": 15
+        },
+        {
+            "id": 32,
+            "text": "A decent amount",
+            "character": null,
+            "question": 16
+        },
+        {
+            "id": 33,
+            "text": "Way too much",
+            "character": null,
+            "question": 17
+        },
+        {
+            "id": 34,
+            "text": "I'm pretty earnest",
+            "character": 12,
+            "question": null
+        },
+        {
+            "id": 35,
+            "text": "SUCC",
+            "character": 13,
+            "question": null
+        },
+        {
+            "id": 36,
+            "text": "Back in my day I had frame 1 damage options",
+            "character": 14,
+            "question": null
+        },
+        {
+            "id": 37,
+            "text": "Frame 1 jab!",
+            "character": 15,
+            "question": null
+        },
+        {
+            "id": 38,
+            "text": "Just give me damage",
+            "character": 16,
+            "question": null
+        },
+        {
+            "id": 39,
+            "text": "Why not?",
+            "character": 17,
+            "question": null
+        },
+        {
+            "id": 40,
+            "text": "What's a combo?",
+            "character": null,
+            "question": 19
+        },
+        {
+            "id": 41,
+            "text": "I want to kill of a high percent grab",
+            "character": 18,
+            "question": null
+        },
+        {
+            "id": 42,
+            "text": "I don't want them to touch the ground",
+            "character": null,
+            "question": 20
+        },
+        {
+            "id": 43,
+            "text": "After every kill",
+            "character": 19,
+            "question": null
+        },
+        {
+            "id": 44,
+            "text": "After every hit",
+            "character": 20,
+            "question": null
+        },
+        {
+            "id": 45,
+            "text": "A lot",
+            "character": 21,
+            "question": null
+        },
+        {
+            "id": 46,
+            "text": "Some",
+            "character": null,
+            "question": 21
+        },
+        {
+            "id": 47,
+            "text": "Yes",
+            "character": 22,
+            "question": null
+        },
+        {
+            "id": 48,
+            "text": "No (LIE)",
+            "character": 23,
+            "question": null
+        },
+        {
+            "id": 49,
+            "text": "I own Sword Art Online merchandise",
+            "character": 24,
+            "question": null
+        },
+        {
+            "id": 50,
+            "text": "Sometimes",
+            "character": null,
+            "question": 23
+        },
+        {
+            "id": 51,
+            "text": "Never",
+            "character": null,
+            "question": 24
+        },
+        {
+            "id": 52,
+            "text": "If I die I uninstall",
+            "character": null,
+            "question": 25
+        },
+        {
+            "id": 53,
+            "text": "Fairly long, hopefully",
+            "character": null,
+            "question": 26
+        },
+        {
+            "id": 54,
+            "text": "Just Kill them first",
+            "character": 27,
+            "question": null
+        },
+        {
+            "id": 55,
+            "text": "Pew Pew",
+            "character": 31,
+            "question": null
+        },
+        {
+            "id": 56,
+            "text": "Pew Pew Pew Pew Pew",
+            "character": 32,
+            "question": null
+        },
+        {
+            "id": 57,
+            "text": "Nah",
+            "character": 33,
+            "question": null
+        },
+        {
+            "id": 58,
+            "text": "A whole lot",
+            "character": 25,
+            "question": null
+        },
+        {
+            "id": 59,
+            "text": "Sometimes",
+            "character": 26,
+            "question": null
+        },
+        {
+            "id": 60,
+            "text": "Every move should kill",
+            "character": 28,
+            "question": null
+        },
+        {
+            "id": 61,
+            "text": "I can be patient",
+            "character": 29,
+            "question": null
+        },
+        {
+            "id": 62,
+            "text": "I'm a pacifist",
+            "character": 30,
+            "question": null
+        },
+        {
+            "id": 63,
+            "text": "You really think someone would do that?",
+            "character": null,
+            "question": 30
+        },
+        {
+            "id": 64,
+            "text": "I'd rather not",
+            "character": null,
+            "question": 28
+        },
+        {
+            "id": 65,
+            "text": "Life is fleeting Victory is eternal",
+            "character": 34,
+            "question": null
+        },
+        {
+            "id": 66,
+            "text": "I think I'll pass",
+            "character": null,
+            "question": 29
+        },
+        {
+            "id": 67,
+            "text": "Everyone has a weakness",
+            "character": 35,
+            "question": null
+        },
+        {
+            "id": 68,
+            "text": "Actually I don't want a weakness",
+            "character": 36,
+            "question": null
+        },
+        {
+            "id": 69,
+            "text": "Dost thou taketh me for a simpleton?",
+            "character": 37,
+            "question": null
+        },
+        {
+            "id": 70,
+            "text": "Do I look like a nerd?",
+            "character": null,
+            "question": 31
+        },
+        {
+            "id": 71,
+            "text": "I'm fine with it",
+            "character": 38,
+            "question": null
+        },
+        {
+            "id": 72,
+            "text": "Impossible",
+            "character": null,
+            "question": 32
+        },
+        {
+            "id": 73,
+            "text": "Camping is boring and stupid",
+            "character": 39,
+            "question": null
+        },
+        {
+            "id": 74,
+            "text": "I cannot contain my thirst for blood",
+            "character": null,
+            "question": 41
+        },
+        {
+            "id": 75,
+            "text": "I'm a lesbian",
+            "character": 40,
+            "question": null
+        },
+        {
+            "id": 76,
+            "text": "Yes",
+            "character": null,
+            "question": 34
+        },
+        {
+            "id": 77,
+            "text": "I want to be normal",
+            "character": null,
+            "question": 35
+        },
+        {
+            "id": 78,
+            "text": "Not much",
+            "character": 42,
+            "question": null
+        },
+        {
+            "id": 79,
+            "text": "5 times 5 is 25",
+            "character": 43,
+            "question": null
+        },
+        {
+            "id": 80,
+            "text": "Not really",
+            "character": null,
+            "question": 36
+        },
+        {
+            "id": 81,
+            "text": "Yes",
+            "character": null,
+            "question": 37
+        },
+        {
+            "id": 82,
+            "text": "Ok",
+            "character": null,
+            "question": 37
+        },
+        {
+            "id": 83,
+            "text": "Touch me and you explode",
+            "character": 44,
+            "question": null
+        },
+        {
+            "id": 84,
+            "text": "Whatever happens happens",
+            "character": 45,
+            "question": null
+        },
+        {
+            "id": 85,
+            "text": "No thanks",
+            "character": null,
+            "question": 38
+        },
+        {
+            "id": 86,
+            "text": "At some point",
+            "character": 46,
+            "question": null
+        },
+        {
+            "id": 87,
+            "text": "I can't decide",
+            "character": 47,
+            "question": null
+        },
+        {
+            "id": 88,
+            "text": "I'm happy to wait",
+            "character": 48,
+            "question": null
+        },
+        {
+            "id": 89,
+            "text": "\"Close range\" in the losest possible sense",
+            "character": 49,
+            "question": null
+        },
+        {
+            "id": 90,
+            "text": "As a last resort",
+            "character": null,
+            "question": 40
+        },
+        {
+            "id": 91,
+            "text": "Who says I have to?",
+            "character": null,
+            "question": 42
+        },
+        {
+            "id": 92,
+            "text": "While looking cool",
+            "character": 50,
+            "question": null
+        },
+        {
+            "id": 93,
+            "text": "Offstage",
+            "character": null,
+            "question": 41
+        },
+        {
+            "id": 94,
+            "text": "Not much",
+            "character": 51,
+            "question": null
+        },
+        {
+            "id": 95,
+            "text": "Somewhat",
+            "character": 52,
+            "question": null
+        },
+        {
+            "id": 96,
+            "text": "Incredibly",
+            "character": 53,
+            "question": null
+        },
+        {
+            "id": 97,
+            "text": "Not often",
+            "character": 54,
+            "question": null
+        },
+        {
+            "id": 98,
+            "text": "3 hours a day",
+            "character": null,
+            "question": 43
+        },
+        {
+            "id": 99,
+            "text": "Occasionally",
+            "character": 55,
+            "question": null
+        },
+        {
+            "id": 100,
+            "text": "Never",
+            "character": 56,
+            "question": null
+        },
+        {
+            "id": 101,
+            "text": "Of course",
+            "character": null,
+            "question": 45
+        },
+        {
+            "id": 102,
+            "text": "I'm good",
+            "character": null,
+            "question": 47
+        },
+        {
+            "id": 103,
+            "text": "Watching the game break gives me life",
+            "character": 57,
+            "question": null
+        },
+        {
+            "id": 104,
+            "text": "No",
+            "character": null,
+            "question": 46
+        },
+        {
+            "id": 105,
+            "text": "It Twitter's happy I'm happy",
+            "character": 58,
+            "question": null
+        },
+        {
+            "id": 106,
+            "text": "Why not?",
+            "character": 59,
+            "question": null
+        },
+        {
+            "id": 107,
+            "text": "Everything must be true",
+            "character": 60,
+            "question": null
+        },
+        {
+            "id": 108,
+            "text": "I want to play a low tier without actually playing a low tier",
+            "character": 61,
+            "question": null
+        },
+        {
+            "id": 109,
+            "text": "It would be nice if they cry",
+            "character": null,
+            "question": 48
+        },
+        {
+            "id": 110,
+            "text": "I want to make friends",
+            "character": null,
+            "question": 49
+        },
+        {
+            "id": 111,
+            "text": "Trip them if they do anything",
+            "character": 62,
+            "question": null
+        },
+        {
+            "id": 112,
+            "text": "Ignore every single hit",
+            "character": 63,
+            "question": null
+        },
+        {
+            "id": 113,
+            "text": "Rage but more",
+            "character": 64,
+            "question": null
+        },
+        {
+            "id": 114,
+            "text": "SonicFox made it cool",
+            "character": 65,
+            "question": null
+        },
+        {
+            "id": 115,
+            "text": "Still not cool",
+            "character": null,
+            "question": 50
+        },
+        {
+            "id": 116,
+            "text": "They're pretty fun",
+            "character": 66,
+            "question": null
+        },
+        {
+            "id": 117,
+            "text": "Why grab combo when you can kill throw",
+            "character": 67,
+            "question": null
+        },
+        {
+            "id": 118,
+            "text": "Who needs those",
+            "character": 68,
+            "question": null
+        },
+        {
+            "id": 119,
+            "text": "I got nothing sorry",
+            "character": 69,
+            "question": null
+        }
+    ],
+    "characters": [
+        {
+            "id": 1,
+            "name": "Pokemon Trainer",
+            "answer": 16
+        },
+        {
+            "id": 2,
+            "name": "Random Button",
+            "answer": null
+        },
+        {
+            "id": 3,
+            "name": "Sonic",
+            "answer": null
+        },
+        {
+            "id": 4,
+            "name": "Rosalina",
+            "answer": null
+        },
+        {
+            "id": 5,
+            "name": "Jigglypuff",
+            "answer": null
+        },
+        {
+            "id": 6,
+            "name": "Wario",
+            "answer": null
+        },
+        {
+            "id": 7,
+            "name": "Little Mac",
+            "answer": null
+        },
+        {
+            "id": 8,
+            "name": "Greninja",
+            "answer": null
+        },
+        {
+            "id": 9,
+            "name": "Meta Knight",
+            "answer": null
+        },
+        {
+            "id": 10,
+            "name": "Captain Falcon",
+            "answer": null
+        },
+        {
+            "id": 11,
+            "name": "Roy",
+            "answer": null
+        },
+        {
+            "id": 12,
+            "name": "Sheik",
+            "answer": null
+        },
+        {
+            "id": 13,
+            "name": "Mii Brawler",
+            "answer": null
+        },
+        {
+            "id": 14,
+            "name": "Fox",
+            "answer": null
+        },
+        {
+            "id": 15,
+            "name": "Zero Suit Samus",
+            "answer": null
+        },
+        {
+            "id": 16,
+            "name": "Yoshi",
+            "answer": null
+        },
+        {
+            "id": 17,
+            "name": "Inkling",
+            "answer": null
+        },
+        {
+            "id": 18,
+            "name": "Donkey Kong",
+            "answer": null
+        },
+        {
+            "id": 19,
+            "name": "Ganondorf",
+            "answer": null
+        },
+        {
+            "id": 20,
+            "name": "Incineroar",
+            "answer": null
+        },
+        {
+            "id": 21,
+            "name": "Ryu/Ken",
+            "answer": null
+        },
+        {
+            "id": 22,
+            "name": "Kirby",
+            "answer": null
+        },
+        {
+            "id": 23,
+            "name": "Luigi",
+            "answer": null
+        },
+        {
+            "id": 24,
+            "name": "Corrin",
+            "answer": null
+        },
+        {
+            "id": 25,
+            "name": "Dedede",
+            "answer": null
+        },
+        {
+            "id": 26,
+            "name": "Shulk",
+            "answer": null
+        },
+        {
+            "id": 27,
+            "name": "Bayonetta",
+            "answer": null
+        },
+        {
+            "id": 28,
+            "name": "Ike",
+            "answer": null
+        },
+        {
+            "id": 29,
+            "name": "Mii Swordfighter",
+            "answer": null
+        },
+        {
+            "id": 30,
+            "name": "Pit/Dark Pit",
+            "answer": null
+        },
+        {
+            "id": 31,
+            "name": "Samus/Dark Samus",
+            "answer": null
+        },
+        {
+            "id": 32,
+            "name": "Mega Man",
+            "answer": null
+        },
+        {
+            "id": 33,
+            "name": "Mr. Game and Watch",
+            "answer": null
+        },
+        {
+            "id": 34,
+            "name": "Mewtwo",
+            "answer": null
+        },
+        {
+            "id": 35,
+            "name": "Ridley",
+            "answer": null
+        },
+        {
+            "id": 36,
+            "name": "Palutina",
+            "answer": null
+        },
+        {
+            "id": 37,
+            "name": "Marth",
+            "answer": 75
+        },
+        {
+            "id": 38,
+            "name": "Cloud",
+            "answer": null
+        },
+        {
+            "id": 39,
+            "name": "Chrom",
+            "answer": 75
+        },
+        {
+            "id": 40,
+            "name": "Lucina",
+            "answer": null
+        },
+        {
+            "id": 41,
+            "name": "Bowser",
+            "answer": null
+        },
+        {
+            "id": 42,
+            "name": "Olimar",
+            "answer": null
+        },
+        {
+            "id": 43,
+            "name": "Robin",
+            "answer": null
+        },
+        {
+            "id": 44,
+            "name": "Snake",
+            "answer": null
+        },
+        {
+            "id": 45,
+            "name": "R.O.B.",
+            "answer": null
+        },
+        {
+            "id": 46,
+            "name": "Link",
+            "answer": null
+        },
+        {
+            "id": 47,
+            "name": "Toon Link",
+            "answer": null
+        },
+        {
+            "id": 48,
+            "name": "Young Link",
+            "answer": null
+        },
+        {
+            "id": 49,
+            "name": "Simon/Richter",
+            "answer": null
+        },
+        {
+            "id": 50,
+            "name": "Zelda",
+            "answer": null
+        },
+        {
+            "id": 51,
+            "name": "Wii Fit Trainer",
+            "answer": null
+        },
+        {
+            "id": 52,
+            "name": "Villager",
+            "answer": null
+        },
+        {
+            "id": 53,
+            "name": "Isabelle",
+            "answer": null
+        },
+        {
+            "id": 54,
+            "name": "Mii Gunner",
+            "answer": null
+        },
+        {
+            "id": 55,
+            "name": "Duck Hunt",
+            "answer": null
+        },
+        {
+            "id": 56,
+            "name": "Pac-Man",
+            "answer": null
+        },
+        {
+            "id": 57,
+            "name": "Ice Climbers",
+            "answer": null
+        },
+        {
+            "id": 58,
+            "name": "Falco",
+            "answer": null
+        },
+        {
+            "id": 59,
+            "name": "Pikachu",
+            "answer": null
+        },
+        {
+            "id": 60,
+            "name": "Peach/Daisy",
+            "answer": null
+        },
+        {
+            "id": 61,
+            "name": "Pichu",
+            "answer": null
+        },
+        {
+            "id": 62,
+            "name": "Diddy Kong",
+            "answer": null
+        },
+        {
+            "id": 63,
+            "name": "King K Rool",
+            "answer": null
+        },
+        {
+            "id": 64,
+            "name": "Lucario",
+            "answer": null
+        },
+        {
+            "id": 65,
+            "name": "Wolf",
+            "answer": null
+        },
+        {
+            "id": 66,
+            "name": "Mario/Dr. Mario",
+            "answer": null
+        },
+        {
+            "id": 67,
+            "name": "Ness",
+            "answer": null
+        },
+        {
+            "id": 68,
+            "name": "Lucas",
+            "answer": null
+        },
+        {
+            "id": 69,
+            "name": "Bowser Jr",
+            "answer": null
+        }
+    ]
+}
