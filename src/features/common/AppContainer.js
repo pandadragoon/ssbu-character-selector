@@ -40,6 +40,9 @@ export class AppContainer extends Component {
           </NavbarBrand>
         </Navbar>
         { children }
+        <Navbar className="mt-5 container">
+          <h4 className="">Based off of the great choose your main created by <a href="https://twitter.com/overtoneseries/status/1075447780183863296">@overtoneseries</a></h4>
+        </Navbar>
       </div>
     );
   }
